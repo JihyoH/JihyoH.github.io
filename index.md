@@ -9,6 +9,9 @@
 > P.S.   
 > I enjoy and like the process of building algorithms.   
 
+***   
+
+
 ### Work experences
 **WEB DEVELOPER**(April 2018 - Present)   
    
@@ -22,6 +25,8 @@
 
 
 
+***   
+
 
 
 ### Skills & abilities
@@ -30,7 +35,7 @@
 > - Regex, nlp(Low level)   
 
 
-
+***   
 
 more Portfolio   
 - php,html <http://rukaren.cafe24.com/>   
