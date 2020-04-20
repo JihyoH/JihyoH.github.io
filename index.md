@@ -1,8 +1,15 @@
 ## Welcome to JihyoH's GitHub Pages
 
 
+### Job objectives
+> I would like to apply as a web developer.   
+> What I am doing recently is web publishing using php and mysql.   
+> Android app development can be done at a beginner level, and I am also interested in hybrid app development.   
+>   
+> P.S.   
+> I enjoy and like the process of building algorithms.   
 
-
+### Work experences
 **WEB DEVELOPER**(April 2018 - Present)   
    
 >- Freelancer/Temporary position, n-ocean(August 2019 - Present)   
@@ -18,7 +25,7 @@
 
 
 ### Skills & abilities
-> - Java 1.8, Spring Framework(3.x, 4.x), MyBatis, Html5, php 5.5 이상, JQuery, Ajax, JSTL, css, javascript(ES5, ES6)   
+> - Java 1.8, Spring Framework(3.x, 4.x), MyBatis, Html5, php5.x, php7.x, JQuery, Ajax, JSTL, css, javascript(ES5, ES6)   
 > - R, Python 3.6, canvas, Android   
 > - Regex, nlp(Low level)   
 
