@@ -1,6 +1,7 @@
 ## Welcome to JihyoH's GitHub Pages
 
-### Work experiences
+
+
 
 **WEB DEVELOPER**(April 2018 - Present)   
    
