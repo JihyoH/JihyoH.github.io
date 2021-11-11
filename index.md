@@ -15,7 +15,11 @@
 ### Work experences
 **WEB DEVELOPER**(April 2018 - Present)   
    
-- Freelancer/Temporary position, n-ocean(August 2019 - Present)   
+- Permanent position, Appknot(May 2020 - Present)   
+> Back-end developer   
+> PHP7, Html5, jQuery, javascript, css, Mysql, Python3, React   
+
+- Freelancer/Temporary position, n-ocean(August 2019 - April 2020)   
 > Front-end developer   
 > PHP5, Html5, jQuery, javascript, css   
 
