@@ -2,12 +2,9 @@
 
 
 ### Job objectives
-> I would like to apply as a web developer.   
-> What I am doing recently is web publishing using php and mysql.   
-> Android app development can be done at a beginner level, and I am also interested in hybrid app development.   
->   
-> P.S.   
-> I enjoy and like the process of building algorithms.   
+> I would like to apply as a web developer or API developer.   
+> What I am doing recently is API developing using PHP and Mysql. Sometimes I use Python3, but currently main language is PHP.
+> Android/iOS app development is at a beginner level, but I am sure that my interest in app development helped me develop APIs better.   
 
 ***   
 
@@ -35,6 +32,7 @@
 
 ### Skills & abilities
 > - Java 1.8, Spring Framework(3.x, 4.x), MyBatis, Html5, php5.x, php7.x, JQuery, Ajax, JSTL, css, javascript(ES5, ES6)   
+> - Mysql
 > - R, Python 3.6, canvas, Android   
 > - Regex, nlp(Low level)   
 
